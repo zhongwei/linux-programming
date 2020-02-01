@@ -416,3 +416,8 @@ DIR *opendir(const char *name);
 struct dirent *readdir(DIR *dirp);
 int closedir(DIR *dirp);
 ```
+
+## Examples
+
+1. [Lib generator command](examples/1.lib_gen/README.md)
+2. [File, directory and dup](example/../examples/2.file_dir/README.md)
