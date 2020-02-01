@@ -202,7 +202,7 @@
 
 #### 普通变量
 
-- 变量取值：foo = $(obj
+- 变量取值：foo = $(obj)
 - 由Makefile维护的一些变量
 
 ``` shell
