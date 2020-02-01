@@ -419,5 +419,5 @@ int closedir(DIR *dirp);
 
 ## Examples
 
-1. [Lib generator command](examples/1.lib_gen/README.md)
-2. [File, directory and dup](example/../examples/2.file_dir/README.md)
+1. [Lib generator command](examples/1.lib_gen)
+2. [File, directory and dup](example/../examples/2.file_dir)
