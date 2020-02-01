@@ -4,6 +4,7 @@
         "CFLAGS",
         "CPPFLAGS",
         "Iinclude",
+        "LDFLAGS",
         "adduser",
         "bufsize",
         "chdir",
@@ -18,7 +19,9 @@
         "fcntl",
         "fdisk",
         "getcwd",
+        "graphviz",
         "groupadd",
+        "ifdef",
         "ldconfig",
         "lftp",
         "libcalc",
@@ -38,6 +41,7 @@
         "openssh",
         "passwd",
         "patsubst",
+        "printf",
         "ptype",
         "qall",
         "readdir",
@@ -52,6 +56,7 @@
         "userdel",
         "vimrc",
         "vsftpd",
+        "xvfz",
         "zhang",
         "zhangsan"
     ]
